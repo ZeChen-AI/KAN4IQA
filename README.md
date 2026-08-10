@@ -1,3 +1,5 @@
+
+
 # Taylor expansion-based Kolmogorov-Arnold Network for Blind Image Quality Assessment
 [![arXiv](https://img.shields.io/badge/arXiv-2505.21592-B31B1B.svg)](https://arxiv.org/abs/2505.21592)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.07762-B31B1B.svg)](https://arxiv.org/abs/2409.07762)
@@ -44,7 +46,7 @@ You can train TaylorKAN by running:
 cd scripts
 python train.py
 ```
-All the results are saved at `script/outputs`.
+All the results are saved at `scripts/outputs`.
 
 
 ## Results
